@@ -1,2 +1,2 @@
-# JavaScript-Topics
-# JavaScript-Topics
+# JavaScript-Topics exercise code
+
